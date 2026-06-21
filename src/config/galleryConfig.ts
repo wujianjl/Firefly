@@ -24,16 +24,14 @@ export const galleryConfig: GalleryConfig = {
 			tags: ["崩坏星穹铁道", "流萤"],
 		},
 		{
-			id: "encrypted-test",
-			name: "加密相册示例",
-			description:
-				"这是一个加密相册的示例，设置了访问密码，只有输入正确的密码才能查看相册内容。",
-			location: "崩坏：星穹铁道",
-			date: "2026-02-01",
-			tags: ["加密相册", "示例"],
-			password: "123456",
-			passwordHint: "示例密码123456",
+			id: "nacho1",
+			name: "猫猫可爱捏",
+			description: "猫猫的画",
+			location: "甘城猫猫",
+			date: "2026-06-21",
+			tags: ["甘城老师", "猫猫"],
 		},
+		
 	],
 
 	// 瀑布流最小列宽(px)，浏览器根据容器宽度自动计算列数，默认 240
