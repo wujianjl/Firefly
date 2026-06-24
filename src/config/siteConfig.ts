@@ -12,7 +12,7 @@ export const siteConfig: SiteConfig = {
 	subtitle: "久落のBlog",
 
 	// 站点 URL
-	site_url: "https://firefly.cuteleaf.cn",
+	site_url: "https://blog.jiuluo.ccwu.cc/",
 
 	// 站点描述
 	description:
