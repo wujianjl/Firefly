@@ -90,7 +90,7 @@ const getDynamicNavBarConfig = (): NavBarConfig => {
 				name: "图床",
 				url: "https://img.jiuluo.ccwu.cc/",
 				external: true,
-				icon: "fa7-brands:qq",
+				icon: "",
 			},
 		],
 	});
