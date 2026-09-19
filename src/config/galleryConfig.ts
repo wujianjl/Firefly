@@ -25,7 +25,7 @@ export const galleryConfig: GalleryConfig = {
 		},
 		{
 			id: "nacho1",
-			name: "猫猫可爱捏",
+			name: "猫猫",
 			description: "猫猫的画",
 			location: "甘城猫猫",
 			date: "2026-06-21",
