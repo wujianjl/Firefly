@@ -52,7 +52,7 @@ export const musicPlayerConfig: MusicPlayerConfig = {
 			{
 				name: "纸皇冠和小木剑",
 				artist: "银河小鱼",
-				url: "/assets/music/使一颗心免于哀伤-哼唱.mp3",
+				url: "/assets/music/纸皇冠与小木剑-银河小鱼.mp3",
 				cover: "/assets/music/cover/109951169585655912.webp",
 				lrc: "",
 			},
