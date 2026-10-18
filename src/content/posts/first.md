@@ -3,6 +3,8 @@ title: python安装教程
 published: 2026-09-27
 updated: 2026-09-27
 description: python安装教程
+tags:
+  - 示例
 category: 教程
 draft: false
 pinned: false
