@@ -23,7 +23,7 @@ pinned: false
 
 如图所示，打开网页下拉找到 Python 版本选择区域：
 
-![屏幕截图 2026-09-27 000053.png]([https:/img.jiuluo.ccwu.cc/file/jiucheng/1790438555192_屏幕截图_2026-09-27_000053.png){target="_blank"}]([https://img.jiuluo.ccwu.cc/file/jiucheng/1790438555192_屏幕截图_2026-09-27_000053.png){target="_blank"}](https://img.jiuluo.ccwu.cc/file/jiucheng/1790438555192_屏幕截图_2026-09-27_000053.png){target="_blank"}))
+![屏幕截图 2026-09-27 000053.png]([https:/img.jiuluo.ccwu.cc/file/jiaocheng/1790438555192_屏幕截图_2026-09-27_000053.png){target="_blank"}]([https://img.jiuluo.ccwu.cc/file/jiucheng/1790438555192_屏幕截图_2026-09-27_000053.png){target="_blank"}](https://img.jiuluo.ccwu.cc/file/jiucheng/1790438555192_屏幕截图_2026-09-27_000053.png){target="_blank"}))
 
 请根据自己的要求选择版本。
 
@@ -33,13 +33,13 @@ pinned: false
 
 以 Windows 为例，选择对应的安装包：
 
-![屏幕截图 2026-09-27 000859.png]([https:/img.jiuluo.ccwu.cc/file/jiucheng/1790438985664_屏幕截图_2026-09-27_000859.png){target="_blank"}]([https://img.jiuluo.ccwu.cc/file/jiucheng/1790438985664_屏幕截图_2026-09-27_000859.png){target="_blank"}](https://img.jiuluo.ccwu.cc/file/jiucheng/1790438985664_屏幕截图_2026-09-27_000859.png){target="_blank"}))
+![屏幕截图 2026-09-27 000859.png]([https:/img.jiuluo.ccwu.cc/file/jiaocheng/1790438985664_屏幕截图_2026-09-27_000859.png){target="_blank"}]([https://img.jiuluo.ccwu.cc/file/jiucheng/1790438985664_屏幕截图_2026-09-27_000859.png){target="_blank"}](https://img.jiuluo.ccwu.cc/file/jiucheng/1790438985664_屏幕截图_2026-09-27_000859.png){target="_blank"}))
 
 ## 4. 运行安装程序
 
 下载后，右键以管理员身份运行。界面如下：
 
-![屏幕截图 2026-09-27 001249.png]([https:/img.jiuluo.ccwu.cc/file/jiucheng/1790439220233_屏幕截图_2026-09-27_001249.png){target="_blank"}]([https://img.jiuluo.ccwu.cc/file/jiucheng/1790439220233_屏幕截图_2026-09-27_001249.png){target="_blank"}](https://img.jiuluo.ccwu.cc/file/jiucheng/1790439220233_屏幕截图_2026-09-27_001249.png){target="_blank"}))
+![屏幕截图 2026-09-27 001249.png]([https:/img.jiuluo.ccwu.cc/file/jiaocheng/1790439220233_屏幕截图_2026-09-27_001249.png){target="_blank"}]([https://img.jiuluo.ccwu.cc/file/jiucheng/1790439220233_屏幕截图_2026-09-27_001249.png){target="_blank"}](https://img.jiuluo.ccwu.cc/file/jiaocheng/1790439220233_屏幕截图_2026-09-27_001249.png){target="_blank"}))
 
 > &zwnj;**注**&zwnj;：务必勾选 &zwnj;**"Add python.exe to PATH"**&zwnj;，然后点击第二个选项（Customize Installation 或 Install Now，视具体版本而定，通常建议自定义安装以便控制路径）。
 
